@@ -18,6 +18,7 @@
                  [environ "1.0.1"]
                  [org.clojure/clojurescript "1.7.170" :scope "provided"]
                  [secretary "1.2.3"]
+                 [com.taoensso/faraday "1.8.0"]
                  [venantius/accountant "0.1.5"
                   :exclusions [org.clojure/tools.reader]]]
 
