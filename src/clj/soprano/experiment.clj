@@ -11,7 +11,7 @@
              :red {:button-color "RED"}
              :green {:button-color "GREEN"}}})
 
-(def experiment-vals
+(def experiment-run-configs
   {:experiment-code "my-experiment"
    :start-time "2015-12-03"
    :end-time "2015-12-13"
